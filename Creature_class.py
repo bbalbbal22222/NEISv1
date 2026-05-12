@@ -1,4 +1,4 @@
-class Creature: #주석을 다시 쓰고 있음
+class Creature: #주석을 다시 쓰고 있음 ㅇㅇㄹㄹ
     num=0
     def __init__(self, name, hp):
         self.name=name
