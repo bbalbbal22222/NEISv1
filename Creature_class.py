@@ -1,4 +1,4 @@
-class Creature:
+class Creature: #주석을 쓰고 있음
     num=0
     def __init__(self, name, hp):
         self.name=name
